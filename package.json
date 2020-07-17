@@ -10,8 +10,6 @@
     "axios": "^0.19.2",
     "bootstrap-sass": "^3.4.1",
     "jquery": "^3.5.1",
-    "laravel-elixir-vue-2": "^0.2.0",
-    "laravel-elixir-webpack-official": "^1.0.2",
     "laravel-mix": "^5.0.4",
     "lodash": "^4.17.19",
     "vue": "^2.6.11",
